@@ -2,7 +2,7 @@ from wavemo import *
 import argparse
 
 parser = argparse.ArgumentParser(description='Train WaveMo')
-parser.add_argument('--save_folder', type=str, default='Train_WaveMo', help='Save folder')
+parser.add_argument('--save_folder', type=str, default='Default_Experiment', help='Save folder')
 parser.add_argument('--training_data_dir', type=str, default='/fs/vulcan-datasets/mit_places/data_large', help='Training data directory')
 parser.add_argument('--batch_size', type=int, default=32, help='Batch size')
 parser.add_argument('--use_wandb', action='store_true')
