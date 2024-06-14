@@ -27,7 +27,7 @@ python main.py --training_data_dir DATASET_DIRECTORY --batch_size 32
 If you have a [Weights & Biases](https://wandb.ai/home) account and want to log your training results onto it, please run 
 
 ``` 
-python main.py --training_data_dir DATASET_DIRECTORYY --batch_size 32 --use_wandb
+python main.py --training_data_dir DATASET_DIRECTORY --batch_size 32 --use_wandb
 ```
 
 
