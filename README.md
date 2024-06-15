@@ -18,7 +18,7 @@ We use [Places365](http://places2.csail.mit.edu/index.html) as our training data
 
 ## Learn Wavefront Modulations
 
-Please run the following command to learn wavefront modulation patterns. The reconstruction results on the test set, network checkpoints, and learned modulations will all be saved under OUTPUT_DIRECTORY. If you come across GPU Memory issues, please decrease the batch size.
+Please run the following command to learn wavefront modulation patterns.
 
 ``` 
 python main.py --training_data_dir DATASET_DIRECTORY --batch_size 32
