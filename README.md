@@ -1,7 +1,7 @@
 # WaveMo: Learning Wavefront Modulations to See Through Scattering
 ​
 Code for the CVPR 2024 paper "WaveMo: Learning Wavefront Modulations to See Through Scattering".
-<br>[**Project Page**](https://wavemo-2024.github.io/) | [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2404.07985) <br>
+<br>[**Project Page**](https://wavemo-2024.github.io/) | [**PDF**](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_WaveMo_Learning_Wavefront_Modulations_to_See_Through_Scattering_CVPR_2024_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2404.07985) | [**YouTube**](https://www.youtube.com/watch?v=-R3m9GT75pQ) <br>
 
 ## Installation
 We test our code with Torch 2.3.1 and CUDA 12.4.1 on a NVIDIA RTX A6000 GPU. Please follow these steps to set up the environment:
